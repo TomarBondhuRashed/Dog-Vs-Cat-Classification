@@ -4,6 +4,7 @@
 
 **Goal:** Build a Computer Vision model capable of distinguishing between dogs and cats with high accuracy.
 **The Approach:** Transfer Learning using **MobileNetV2** (pre-trained on ImageNet).
+**Dataset : https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset**
 
 ---
 
